@@ -45,5 +45,5 @@ section .main .searchBx .icons {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px;
+    padding: 12px 20px;pointer-events: none;
 }
