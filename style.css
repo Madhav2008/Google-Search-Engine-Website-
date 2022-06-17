@@ -60,5 +60,5 @@ section .main .searchBx .icons img {
     margin-top: 20px;
     padding: 12px 20px;
     color: #555;
-    font-size: 14px;
+    font-size: 14px;border: none;
 }
