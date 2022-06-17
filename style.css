@@ -31,5 +31,6 @@ section .main .searchBx {
 
 section .main .searchBx .query {
     width: 100%;
-    padding: 13px;border: ;
+    padding: 13px;
+    border: ;
 }
