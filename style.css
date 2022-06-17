@@ -62,5 +62,6 @@ section .main .searchBx .icons img {
     color: #555;
     font-size: 14px;
     border: none;
-    cursor: pointer;border-radius: 4px;
+    cursor: pointer;
+    border-radius: 4px;
 }
