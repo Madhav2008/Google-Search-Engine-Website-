@@ -51,4 +51,6 @@ section .main .searchBx .icons {
     pointer-events: none;
 }
 
-section .main .searchBx .icons img {max-width: ;}
+section .main .searchBx .icons img {
+    max-width: ;
+}
