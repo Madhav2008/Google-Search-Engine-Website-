@@ -52,5 +52,5 @@ section .main .searchBx .icons {
 }
 
 section .main .searchBx .icons img {
-    max-width: ;
+    max-width: 100%;
 }
