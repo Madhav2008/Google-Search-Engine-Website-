@@ -27,4 +27,6 @@ section .main .searchBx {
     position: relative;
     width: 100%;
     margin-top: 20px;
-}section .main .searchBx .query
+}
+
+section .main .searchBx .query
