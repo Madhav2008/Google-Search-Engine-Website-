@@ -35,7 +35,7 @@ section .main .searchBx .query {
     border: 1px solid #ccc;
     outline: none;
     font-size: 16px;
-    border-radius: 30px;
+    border-radius: 30px;padding-left: 45px;
 }
 
 section .main .searchBx .icons {
