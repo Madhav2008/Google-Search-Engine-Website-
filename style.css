@@ -23,4 +23,4 @@ section .main {
     flex-direction: column;
 }
 
-section .main .searchBx {}
+section .main .searchBx {position: relative;}
