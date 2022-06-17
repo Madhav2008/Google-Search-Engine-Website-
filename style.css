@@ -68,4 +68,6 @@ section .main .searchBx .icons img {
     outline: none;
 }
 
-.searchBtn:hover {border: 1px solid #ccc;}
+.searchBtn:hover {
+    border: 1px solid #ccc;
+}
