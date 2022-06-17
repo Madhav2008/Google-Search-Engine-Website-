@@ -15,5 +15,5 @@ section {
 }
 
 section .main {
-    width: 580px;
+    width: 580px;margin: 0;
 }
