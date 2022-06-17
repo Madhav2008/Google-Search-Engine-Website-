@@ -63,5 +63,5 @@ section .main .searchBx .icons img {
     font-size: 14px;
     border: none;
     cursor: pointer;
-    border-radius: 4px;
+    border-radius: 4px;border: ;
 }
