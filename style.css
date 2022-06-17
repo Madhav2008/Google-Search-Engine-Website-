@@ -56,5 +56,5 @@ section .main .searchBx .icons img {
 }
 
 .searchBtn {
-    margin: 0 5px;
+    margin: 0 5px;margin-top: 20px;
 }
