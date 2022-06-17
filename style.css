@@ -25,5 +25,5 @@ section .main {
 
 section .main .searchBx {
     position: relative;
-    width: 100px;
+    width: 100%;
 }
