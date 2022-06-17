@@ -41,5 +41,6 @@ section .main .searchBx .query {
 section .main .searchBx .icons {
     position: absolute;
     top: 0;
-    width: 100%;display: flex;
+    width: 100%;
+    display: flex;
 }
