@@ -18,5 +18,5 @@ section .main {
     width: 580px;
     margin: 0 20px;
     display: flex;
-    justify-content: ;
+    justify-content: center;
 }
