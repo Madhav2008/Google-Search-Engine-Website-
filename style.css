@@ -43,5 +43,6 @@ section .main .searchBx .icons {
     top: 0;
     width: 100%;
     display: flex;
-    justify-content: space-between;padding: ;
+    justify-content: space-between;
+    padding: ;
 }
