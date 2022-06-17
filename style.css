@@ -55,4 +55,6 @@ section .main .searchBx .icons img {
     max-width: 100%;
 }
 
-.searchBtn {margin: 0 5px;}
+.searchBtn {
+    margin: 0 5px;
+}
